@@ -1,7 +1,8 @@
 # custom keyboard
 This is a split keyboard which can be aligned to work like a normal keyboard, it also has a removable numpad which conects to the main keyboard using pogo connectors. 
 The keycaps are going to be 3d printed using these keycaps: https://www.printables.com/model/593307-low-profile-small-mx-keycaps-set/files
-<img width="1680" height="416" alt="cover picture" src="https://github.com/user-attachments/assets/2f000db1-79ff-4960-9070-b0609480b058" />
+<img width="1291" height="340" alt="image" src="https://github.com/user-attachments/assets/4cea06cc-d5b1-4298-bb52-e8dfd17a3ee7" />
+
 I wanted to make a split keyboard since my wrist hurt after typing for a long time, but im used to typing on a normal keyboard so i wanted to have this possiblity aswel,
 i use a numpad for some programs so i also wanted to have that but since my desk is alway cluttered with stuff i wanted to have a keyboard which isnt too big so i made it removable.
 ## PCB and schematic
